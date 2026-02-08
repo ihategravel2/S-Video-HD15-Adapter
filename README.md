@@ -10,8 +10,8 @@ C (Chroma) - Red
 LCSC Numbers!
 1.  3.5MM -  C692542
 2. DSUB - C75754
-3. S-VIDEO - C6224745
-4. RCA L/R - RCJ-042/RCJ-043
+3. S-VIDEO - C6224745 (Can get these on digikey alternativley)
+4. RCA L/R - RCJ-042/RCJ-043 (Get these on digikey)
 
 
 
